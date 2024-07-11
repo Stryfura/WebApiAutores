@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Brg1h879Xrelfl94RrhuYU34Xhw7LCu5lp15T77UV8pQMpLq0d1Ml6DAXBWmp4YlSTRrhCXjbVwaLMxKqAkn5Q==",
+  "dgSpecHash": "9jwqIUQrEw5m6ahayfmKClomfrE9V6S0PaDVAUowCNGbbCVkUSqsGPyok1TLCxlt5qtU7933bcJVzc47wcb2uw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\WebAPIAutores.csproj",
+  "projectFilePath": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\WebAPIAutores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shilu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\shilu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

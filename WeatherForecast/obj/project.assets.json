@@ -4527,11 +4527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\WebAPIAutores.csproj",
+      "projectUniqueName": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\WebAPIAutores.csproj",
       "projectName": "WebAPIAutores",
-      "projectPath": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\WebAPIAutores.csproj",
+      "projectPath": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\WebAPIAutores.csproj",
       "packagesPath": "C:\\Users\\shilu\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\obj\\",
+      "outputPath": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shilu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4599,7 +4599,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

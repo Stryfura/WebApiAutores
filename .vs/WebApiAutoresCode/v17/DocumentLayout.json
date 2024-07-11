@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\WebApiAutoresCode\\",
+  "WorkspaceRootPath": "C:\\Repositories\\WebApiAutores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\validations\\firstletteruppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\validations\\firstletteruppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\migrations\\20240314025658_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\migrations\\20240314025658_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|d:\\projects\\webapiautorescode\\weatherforecast\\migrations\\20240314015831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\migrations\\20240314015831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|c:\\repositories\\webapiautores\\weatherforecast\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75823335-46F0-4945-B1F3-96B57063E01B}|WeatherForecast\\WebAPIAutores.csproj|solutionrelative:weatherforecast\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240314025658_Books.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Migrations\\20240314025658_Books.cs",
-              "RelativeDocumentMoniker": "WeatherForecast\\Migrations\\20240314025658_Books.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Migrations\\20240314025658_Books.cs",
-              "RelativeToolTip": "WeatherForecast\\Migrations\\20240314025658_Books.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T02:56:58.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "WeatherForecast\\Entities\\Book.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Entities\\Book.cs",
-              "RelativeToolTip": "WeatherForecast\\Entities\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T02:51:06.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240314015831_Initial.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Migrations\\20240314015831_Initial.cs",
-              "RelativeDocumentMoniker": "WeatherForecast\\Migrations\\20240314015831_Initial.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Migrations\\20240314015831_Initial.cs",
-              "RelativeToolTip": "WeatherForecast\\Migrations\\20240314015831_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T01:58:31.479Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WeatherForecast\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WeatherForecast\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "WeatherForecast\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Entities\\Autor.cs",
+              "RelativeToolTip": "WeatherForecast\\Entities\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T01:47:16.522Z"
+              "WhenOpened": "2024-05-27T10:16:37.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Entities\\Autor.cs",
-              "RelativeDocumentMoniker": "WeatherForecast\\Entities\\Autor.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Entities\\Autor.cs",
-              "RelativeToolTip": "WeatherForecast\\Entities\\Autor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FirstLetterUpperCase.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Validations\\FirstLetterUpperCase.cs",
+              "RelativeDocumentMoniker": "WeatherForecast\\Validations\\FirstLetterUpperCase.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Validations\\FirstLetterUpperCase.cs",
+              "RelativeToolTip": "WeatherForecast\\Validations\\FirstLetterUpperCase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:54:19.014Z"
+              "WhenOpened": "2024-05-27T10:11:30.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AutoresController.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Controllers\\AutoresController.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "WeatherForecast\\Controllers\\AutoresController.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "WeatherForecast\\Controllers\\AutoresController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAnAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCcAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T02:51:52.614Z",
+              "WhenOpened": "2024-05-16T11:24:03.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "WeatherForecast\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\Projects\\WebApiAutoresCode\\WeatherForecast\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Controllers\\BooksController.cs",
               "RelativeToolTip": "WeatherForecast\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA3AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T02:58:58.685Z"
+              "WhenOpened": "2024-05-16T11:23:37.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WeatherForecast\\appsettings.Development.json",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\appsettings.Development.json",
+              "RelativeToolTip": "WeatherForecast\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:54:07.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WeatherForecast\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WeatherForecast\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:48:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherForecast\\appsettings.json",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\appsettings.json",
+              "RelativeToolTip": "WeatherForecast\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:48:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WeatherForecast\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WeatherForecast\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:47:40.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForecast\\Program.cs",
+              "ToolTip": "C:\\Repositories\\WebApiAutores\\WeatherForecast\\Program.cs",
+              "RelativeToolTip": "WeatherForecast\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:43:03.895Z"
             }
           ]
         }

@@ -43,9 +43,16 @@ namespace WebAPIAutores.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] Autor autor)
+        public async Task<ActionResult> Post([FromBody] Autor author)
         {
-            context.Add(autor);
+            var existsAuthor = await context.Autores.AnyAsync(x => x.Name == author.Name);
+
+            if (existsAuthor)
+            {
+                return BadRequest($"Author {author.Name} already exists.");
+            }
+
+            context.Add(author);
             await context.SaveChangesAsync();
             return Ok();
         }
@@ -57,6 +64,7 @@ namespace WebAPIAutores.Controllers
 
             if (existe)
             {
+                //esta comprobación no tiene mucho sentido ya que se hace en isAuthorExisting
                 if (id != autor.Id)
                 {
                     return BadRequest("The author id is not the same");
